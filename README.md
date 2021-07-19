@@ -6,7 +6,7 @@
 
 We track bugs and feature requests in this repository.
 
-If you want to file for bug or request a feature, each ticket has template that you need to fill out. It will make our job easier to track the bug or build the feature if you can provide us with good information.
+If you want to file for bug or request a feature, head over to the discussion section and create a new discusson. It will make our job easier (and faster too) to track the bug or build the feature if you can provide us with good information.
 
 ### Priority
 
